@@ -1,0 +1,84 @@
+header {
+  background-color: #27282b;
+  padding: 15px;
+  color: white;
+}
+
+header > p {
+  font-family: "Century Gothic";
+}
+
+#miFoto {
+  float: left;
+  height: 210px;
+  width: 157.44px;
+  padding-right: 20px;
+}
+
+.redes {
+  float: right;
+  height: 37px;
+  width: 37px;
+  padding-left: 15px;
+}
+
+h1 {
+  font-family: "DIN Alternate";
+  font-size: 40px;
+}
+
+h3 {
+  font-family: "Century Gothic";
+  font-size: 25px;
+  margin-bottom: 0;
+}
+
+.titulos {
+  font-family: "Helvetica";
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.years {
+  font-size: 15px;
+  font-style: normal;
+  float: right;
+  font-weight: normal;
+}
+
+#P1 {
+  background-color: #d1d0d0;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.descripcion {
+  font-family: "Helvetica";
+  font-style: italic;
+  margin-top: 5px;
+}
+
+ul {
+  font-family: "Helvetica";
+}
+
+#competencias {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+#competencias > li {
+  float: left;
+  width: 170px;
+  background-color: #27282b;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
