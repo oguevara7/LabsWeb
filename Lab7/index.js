@@ -71,5 +71,5 @@ app.delete('/persons/:id', function(req, res) {
 })
 
 app.listen(port, function() {
-    console.log('Server up and running on port ' + port)
+    console.log('Winter is coming on port ' + port)
 })
